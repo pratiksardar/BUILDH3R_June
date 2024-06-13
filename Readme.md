@@ -12,6 +12,6 @@ Demox/Aleo | Building Your First ZK App [6 POINTS] - [https://github.com/pratiks
 
 Starknet | Intro to Cairo, the Provable Programing Language [18 POINTS] - [https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDHER_JUNE_STAKRNET](https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDHER_JUNE_STAKRNET)
 
-Storswift | How to build with Aleo? [18 POINTS]
-AlphaSwap | How Do Private Swap Works on AlphaSwap? [18 POINTS]
-Gitcoin/Green Pill | Getting Started with Builder Grants [6 POINTS]
+Storswift | How to build with Aleo? [18 POINTS] - [https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDHER_JUNE_storswift](https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDHER_JUNE_storswift)
+AlphaSwap | How Do Private Swap Works on AlphaSwap? [18 POINTS] [https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDH3R_JUNE_ALGOSWAP](https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDH3R_JUNE_ALGOSWAP)
+Gitcoin/Green Pill | Getting Started with Builder Grants [6 POINTS] [https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDH3R_GREENPILL_GITCOIN](https://github.com/pratiksardar/BUILDH3R_June/tree/main/BUILDH3R_GREENPILL_GITCOIN)
